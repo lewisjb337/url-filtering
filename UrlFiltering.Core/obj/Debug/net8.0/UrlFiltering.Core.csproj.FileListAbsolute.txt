@@ -1,0 +1,11 @@
+C:\Users\lewis.baxter\RiderProjects\UrlFiltering\UrlFiltering.Core\bin\Debug\net8.0\UrlFiltering.Core.deps.json
+C:\Users\lewis.baxter\RiderProjects\UrlFiltering\UrlFiltering.Core\bin\Debug\net8.0\UrlFiltering.Core.dll
+C:\Users\lewis.baxter\RiderProjects\UrlFiltering\UrlFiltering.Core\bin\Debug\net8.0\UrlFiltering.Core.pdb
+C:\Users\lewis.baxter\RiderProjects\UrlFiltering\UrlFiltering.Core\obj\Debug\net8.0\UrlFiltering.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewis.baxter\RiderProjects\UrlFiltering\UrlFiltering.Core\obj\Debug\net8.0\UrlFiltering.Core.AssemblyInfoInputs.cache
+C:\Users\lewis.baxter\RiderProjects\UrlFiltering\UrlFiltering.Core\obj\Debug\net8.0\UrlFiltering.Core.AssemblyInfo.cs
+C:\Users\lewis.baxter\RiderProjects\UrlFiltering\UrlFiltering.Core\obj\Debug\net8.0\UrlFiltering.Core.csproj.CoreCompileInputs.cache
+C:\Users\lewis.baxter\RiderProjects\UrlFiltering\UrlFiltering.Core\obj\Debug\net8.0\UrlFiltering.Core.dll
+C:\Users\lewis.baxter\RiderProjects\UrlFiltering\UrlFiltering.Core\obj\Debug\net8.0\refint\UrlFiltering.Core.dll
+C:\Users\lewis.baxter\RiderProjects\UrlFiltering\UrlFiltering.Core\obj\Debug\net8.0\UrlFiltering.Core.pdb
+C:\Users\lewis.baxter\RiderProjects\UrlFiltering\UrlFiltering.Core\obj\Debug\net8.0\ref\UrlFiltering.Core.dll
